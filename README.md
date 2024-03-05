@@ -15,7 +15,7 @@ Nome: Samuel Enderson Lima da Silva | RM: 96677
 > Arquitetura da solução:
 
 
-![Arquitetura da solução](https://github.com/luiznsc/COTCO_SPRINT2/blob/main/arquitetura do projeto.png)
+![Arquitetura da solução](https://github.com/luiznsc/COTCO_SPRINT2/blob/main/arquitetura%20do%20projeto.png)
 
 
 
